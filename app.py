@@ -2,7 +2,7 @@ import streamlit as st
 st.image("logo.jpg")
 # Cấu hình giao diện trang web
 st.set_page_config(
-    page_title="Ứng dụng Tính Lãi Tiết Kiệm", page_icon="💰", layout="centered"
+    page_title="Ứng dụng Tính Lãi Tiết Kiệm_Phạm Hải Linh", page_icon="💰", layout="centered"
 )
 
 st.title("💰 Ứng dụng Tính Lãi Gửi Tiết Kiệm")
